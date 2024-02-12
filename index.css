@@ -226,6 +226,7 @@
 }
 .home-links1 {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   margin-left: 33px;
   flex-direction: row;
